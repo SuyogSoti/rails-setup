@@ -27,7 +27,6 @@ echo "installing the newest version of rails"
 gem install rails
 
 echo "Restart The Terminal to use ruby and rails"
-echo "feature a"
 
 echo "This program was made by Suyog Soti"
 echo "Please contact him through suyog.soti@gmail.com"
